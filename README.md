@@ -1,11 +1,12 @@
 # ByteBite-UTS-Hackathon-2025
 
 ## _Co-created by Arjan Waraich and Daniel Ganjali_
+### _Marketed by Emerson Ni_ 
 
 <img width="330" alt="{48330310-CCEC-465A-B8BA-6DF1E5CB6690}" src="https://github.com/user-attachments/assets/ce34311b-5284-4e97-b47f-bd0e98581e39" />
 
 ## Project Overview
-ByteBite is an inventory management system designed to help food banks manage their stock efficiently. The system includes user authentication, inventory tracking, and integration with the Nutritionix API to fetch nutritional information. This was 
+ByteBite is an inventory management system designed to help food banks manage their stock efficiently. The system includes user authentication, inventory tracking, and integration with the Nutritionix API to fetch nutritional information. This was created under premise of the 2025 University of Toronto Schools Hackathon - _3rd place finish_.
 
 ### **Demo Video**: 
 
