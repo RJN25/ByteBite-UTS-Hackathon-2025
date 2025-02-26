@@ -1,6 +1,6 @@
 # ByteBite-UTS-Hackathon-2025
 
-## _Co-created by Arjan Waraich and Daniel Ganjali_
+## _Co-created by Arjan Waraich and Danial Ganjali_
 ### _Marketed by Emerson Ni_ 
 
 <img width="330" alt="{48330310-CCEC-465A-B8BA-6DF1E5CB6690}" src="https://github.com/user-attachments/assets/ce34311b-5284-4e97-b47f-bd0e98581e39" />
